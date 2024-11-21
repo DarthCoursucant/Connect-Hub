@@ -22,3 +22,5 @@
 ![Home Feed Page](./media/desktop-three.png)
 ### Create A Post Page On Desktop / Laptop
 ![Create A Post Page](./media/desktop-four.png)
+
+## How Does Sqaure Eyes Look Like For Phone size Devices ?
