@@ -26,3 +26,5 @@
 ## How Does Sqaure Eyes Look Like For Phone size Devices ?
 ### Login Feed On Phone
 ![Login Feed Page](./media/phone-one.png)
+### Home Feed On Phone
+![Home Feed Page](./media/phone-two.png)
