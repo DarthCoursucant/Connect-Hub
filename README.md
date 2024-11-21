@@ -28,3 +28,7 @@
 ![Login Feed Page](./media/phone-one.png)
 ### Home Feed On Phone
 ![Home Feed Page](./media/phone-two.png)
+### Edit Post Page On Phone
+![Edit Post Page](./media/phone-three.png)
+### Create A Post Page On Phone
+![Create A Post Page](./media/phone-four.png)
